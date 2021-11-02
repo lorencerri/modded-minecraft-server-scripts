@@ -2,7 +2,7 @@
 A repository of useful scripts for modded Minecraft servers (for Linux)
 
 ---
-**Common**
+## Common Scripts
 
 > **[downloadServerFiles.sh]()** <br>
 > Allows you to search through CurseForge for server files, downloading them to a specified folder
